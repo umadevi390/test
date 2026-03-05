@@ -1,0 +1,1 @@
+select current_database() as DB_name
